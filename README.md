@@ -1,4 +1,6 @@
 8-Queens Problem Solver
+
+
 This Python program solves the 8-Queens problem, a classic puzzle in which 8 queens must be placed on an 8x8 chessboard such that no two queens attack each other. The program not only places the queens on the board but also calculates how many pairs of queens are attacking each other, based on their positions.
 
 Problem Explanation:
